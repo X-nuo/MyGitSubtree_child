@@ -1,1 +1,2 @@
 Hello Git subree!
+Hello this is my child project!
